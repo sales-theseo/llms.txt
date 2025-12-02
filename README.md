@@ -54,7 +54,11 @@ Visit /llms.txt to view the generated output
 🤝 Contributing
 Pull requests, improvements and suggestions are welcome.
 Open an issue if you’d like to discuss new fields, formats or integrations.
+Official plugin page: https://www.theseo.nl/tools/llms-txt-generator/
+
 
 🔗 About TheSEO
 This plugin is maintained by TheSEO, an AI-first SEO agency focused on the future of search, content discovery and WordPress tooling.
 More information: https://www.theseo.nl
+
+
